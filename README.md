@@ -1,7 +1,6 @@
 # End-to-end LSTM Pipeline
 
-This repository contains a modular version of the LSTM experiment originally developed in `Taller_proyecto_LSTM.ipynb`. A full Python pipeline has been added so you can run the workflow from start to finish without the notebook, along with an educational README that explains every step.
-
+This repository contains a modular version of the LSTM experiment originally developed in `Taller_proyecto_LSTM.ipynb`.
 ## Project structure
 - `lstm/` reusable code:
   - `data.py`: loads the `Nominales_B{beta}_Y` series from `00_DatosOriginalesLag.xlsx` and builds sequences.
