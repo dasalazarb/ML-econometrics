@@ -59,4 +59,3 @@ Main arguments:
 - Tune `--iteracion` and `--dias-predecir` to match your hardware capacity: higher values increase training time.
 - You can reduce `--model` and `--activation` to a single value for quick experiments.
 
-With these steps you can reproduce and extend the experiment without relying on the original notebook.
